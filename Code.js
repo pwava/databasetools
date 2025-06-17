@@ -352,8 +352,8 @@ function updateActivityLevels() {
           newEventAttendanceRow[0] = personIdUAT;
           newEventAttendanceRow[1] = fullNameUAT;
           newEventAttendanceRow[2] = `BASELINE ADJUSTMENT ${eventCounter}`;
-          newEventAttendanceRow[3] = firstNameUAT;
-          newEventAttendanceRow[4] = lastNameUAT;
+          newEventAttendanceRow[4] = firstNameUAT;
+          newEventAttendanceRow[5] = lastNameUAT;
           newEventAttendanceRow[10] = eventDate;
           newEventAttendanceRow[13] = formattedExecutionDate;
 
